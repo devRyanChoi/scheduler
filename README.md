@@ -35,4 +35,4 @@ For full functionality both must run concurrently: the client and the API server
 ## Final Product
 ![Screenshot of URLs page]()
 
-![Screenshot of URLs page]()
+![Screenshot of URLs page](https://github.com/devRyanChoi/scheduler/blob/master/docs/sch%20-%201.png?raw=true)
